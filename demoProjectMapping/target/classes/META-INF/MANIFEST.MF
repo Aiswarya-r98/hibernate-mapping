@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 14
+Implementation-Title: demoProjectMapping
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: org.springframework.boot.SpringApplication.DemoProjectMappin
+ gApplication
+Created-By: Maven Integration for Eclipse
+
